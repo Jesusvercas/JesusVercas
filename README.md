@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?JesusVercas=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=JesusVercas)
+![](https://komarev.com/ghpvc/?username=JesusVercas&color=green)
