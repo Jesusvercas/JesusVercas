@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=JesusVercas)
-![](https://komarev.com/ghpvc/?username=JesusVercas&color=green)
 <h1 align="center">Hola 👋, soy Jesús</h1>
 <h3 align="center">Informático</h3>
 
