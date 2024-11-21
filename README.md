@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=JesusVercas)
 ![](https://komarev.com/ghpvc/?username=JesusVercas&color=green)
 ##SKILLS 
--HTML 5
--CSS 3
--JAVA SCRIPT 
--POWER POINT
--EXCELL
--WORD 
--VISUAL STUDIO CODE
--ORACLE VM VIRTUALVOX
--[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+* HTML 5
+* CSS 3
+* JAVA SCRIPT 
+* POWER POINT
+* EXCELL
+* WORD 
+* VISUAL STUDIO CODE
+* ORACLE VM VIRTUALVOX
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
