@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en **Actualmente no trabajo en nada, pero con muchas ganas de hacerlo.**
+- 🔭  **Actualmente no trabajo en nada, pero con muchas ganas de hacerlo.**
 
 - 🌱 Actualmente estoy aprendiendo **Segundo año del Grado Medio de Sistemas Microinformáticos y Redes**
 
